@@ -1,6 +1,6 @@
 # logain_hamdan_6_01
 
-A new Flutter project.
+Paper rock scissors initial game
 
 ## Getting Started
 
